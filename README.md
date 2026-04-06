@@ -8,7 +8,7 @@ An AI-powered agriculture system that helps farmers make data-driven decisions.
 - Pest Risk Analysis
 - Fertilizer Recommendation
 - Water Requirement Prediction
-- Cost Estimation
+
 
 ## 🧠 Tech Stack
 - Python, Pandas, NumPy
