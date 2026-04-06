@@ -18,8 +18,7 @@ An AI-powered agriculture system that helps farmers make data-driven decisions.
 - SQLite
 
 ## 📊 Models Used
-- Regression (Yield Prediction)
-- Classification (Pest Risk)
+- Classification (Crop Identification)
 
 ## ⚙️ Installation
 ```bash
