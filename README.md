@@ -20,6 +20,11 @@ An AI-powered agriculture system that helps farmers make data-driven decisions.
 ## 📊 Models Used
 - Classification (Crop Identification)
 
+## 📌 Future Improvements
+Real-time weather API integration
+Satellite data integration
+Mobile app version
+
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/mellowxmirage/AgroHelp
